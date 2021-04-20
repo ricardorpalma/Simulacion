@@ -4,7 +4,7 @@ You can use the [editor on GitHub](https://github.com/ricardorpalma/Simulacion/e
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-![Ricardo Palma](rrp_perfil.png)
+![Ricardo R. Palma](rrp_perfil.png)
 
 ### Markdown
 
